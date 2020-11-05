@@ -1,4 +1,6 @@
-name = "Krishna"
-print("Hello" + name)
+
+print("Hello Krishna")
+print("Hello Ranju")
+
 
 
